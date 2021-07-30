@@ -11,6 +11,16 @@
     android:orientation="vertical"
     tools:context=".activity.SignUpActivity">
 
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imageView2"
+        android:layout_width="225dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="-100dp"
+        android:layout_marginBottom="55dp"
+        tools:src="@drawable/yo"
+
+        />
+
     <View
         android:id="@+id/bg"
         android:layout_width="0dp"
